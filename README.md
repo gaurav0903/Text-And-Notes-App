@@ -1,6 +1,7 @@
 # Text-And-Notes-App
 # Getting Started with Create React App
-## There Are Two App
+
+## There Are Two Apps
 1. Text Editor App
 2. MarkDown App
 
